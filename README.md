@@ -26,7 +26,7 @@ Barreias:
 3) https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
 
 Scanner de Acessibilidade
-https://support.google.com/accessibility/android/faq/6376582?hl=pt-BR&visit_id=637392355016759959-1151494501&rd=1
+1) https://support.google.com/accessibility/android/faq/6376582?hl=pt-BR&visit_id=637392355016759959-1151494501&rd=1
 
 30 days Acessibility Testing
-https://www.ministryoftesting.com/dojo/lessons/30-days-of-accessibility-testing
+1) https://www.ministryoftesting.com/dojo/lessons/30-days-of-accessibility-testing
